@@ -15,4 +15,13 @@ A step-by-step to-do list used to create a generic developers group in the wonde
 - [ ] Schedule a welcome meetup
 
 ## Roadmap
-TBA
+
+- September 2018: define meaningful name and create organization on Github
+- October 2018: collecte organizers
+- November 2018: create front page on Github pages
+- December 2018: define the meetups platform
+- January 2019: define Slack + Telegram chat rooms
+- February 2019: define the group location
+- March 2019: consolidate developers network
+- April 2019: define group sponsors and advertisement channels
+- May 2019: welcome meetup
